@@ -1,0 +1,6 @@
+Sử dụng trên PC
+B1: Truy cập vào link chuyen giao dien:
+https://m.facebook.com/friends/center/requests/outgoing/
+B2: F12 -> Consle -> paste toàn bộ dòng script vào
+B3: Enter và thực hiện lại bước 2 vài lần cho tới khi thu hồi hết toàn bộ:
+code: var inputs = document.getElementsByClassName('_54k8 _52jg _56bs _26vk _2b4n _56bt'); for(var i=0; i<inputs.length;i++) {inputs[i].click();}
