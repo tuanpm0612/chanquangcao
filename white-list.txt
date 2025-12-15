@@ -8,6 +8,10 @@
 @@||exness.com^
 @@||exness.io^
 @@||visa.com^
+@@||vietcombank.com.vn^
+@@||techcombank.com^
+@@||vib.com.vn^
+@@||hsbc.com.vn^
 @@||digitalcardservice.com^
 @@||liobank.vn^
 @@||zalopay.vn^
